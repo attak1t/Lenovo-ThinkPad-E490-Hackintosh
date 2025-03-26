@@ -7,8 +7,8 @@
 
 | Model     | MacBookPro15,2      | Version        | Sequoia 15.3.2      |
 | :-------- | :------------------ | :------------- | :------------------ |
-| Processor | Intel Core i7-8565U | Graphics       | UHD Graphics 620    |
-| Memory    | 2666MHz 2x8GB  | OS Disk        | Crucial MX500 (SATA) (should work with M.2 SSD included with laptop) |
+| Processor | Intel Core i5-8265U | Graphics       | UHD Graphics 620    |
+| Memory    | 2666MHz 2x8GB  | OS Disk        | Samsung 840 EVO SATA SSD |
 | Audio     | Conexant CX8070     | WiFi/Bluetooth | Intel Wireless AC9260 (default card)|
 
 ## About build
@@ -21,10 +21,7 @@
 
 #### Not Working
 
-- Things that may never work:
-  - The Fn row functions except volume + brightness control
-  - Mixed DRM (for AppleTV+, Netflix and Amazon Prime Video should work)
-  - ~~HDMI Port (USB-C works but no video output)~~ Works from Release 0.8.0!
+Everything
 
 ## Installation
 
