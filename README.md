@@ -1,4 +1,4 @@
-# Lenovo Thinkpad E490 Hackintosh
+# Lenovo Thinkpad E490 Hackintosh - Work in progress!
 <p>
     <img style="border-radius: 8px" src="Assets/background.png">
 </p>
@@ -13,14 +13,11 @@
 
 ## About build
 
-- Since the other Repos for the Lenovo E490 are very outdated I released my own version.
-- Intel wifi card works with AirportItlwm.kext:
-  - Follow this: https://openintelwireless.github.io
+- Based on jamieernest's build for the E490 and https://github.com/5T33Z0/Thinkpad-T490-Hackintosh-OpenCore - attempt to modernize the E490 build for Sequoia.
 
 #### Performance
 
-- [Geekbench 5](https://browser.geekbench.com/v5/cpu/5792498): 812 SingleCore, 2972 MultiCore
-- Battery: Haven't tested yet, battery status with patched DSDT but might not work with your PC
+- Not tested
 
 #### Not Working
 
@@ -33,8 +30,7 @@
 
 ### BIOS
 
-- Disk in `AHCI` mode
-- Secure Boot `Disabled`
+Not ready
 
 ### STEP
 
@@ -51,7 +47,8 @@
 - When you are booted in you need to mount EFI partition and replace it with USB's EFI using [Hackintool](https://github.com/headkaze/Hackintool/releases) or [MountEFI](https://github.com/corpnewt/MountEFI)
 
 #### Sleep
-Sleep is completely supported!
+
+Not tested.
 
 ## Credits
 
