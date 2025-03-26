@@ -1,6 +1,6 @@
 # Lenovo Thinkpad E490 Hackintosh - Work in progress!
 <p>
-    <img style="border-radius: 8px" src="Assets/background.png">
+    <img style="border-radius: 8px" src="Assets/x.png">
 </p>
 
 ## System configuration
