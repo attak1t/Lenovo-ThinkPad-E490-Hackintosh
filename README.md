@@ -5,7 +5,7 @@
 
 ## System configuration
 
-| Model     | MacBookPro15,2      | Version        | Catalina 10.15.7/Big Sur 11.0.1/Monterey 12.3.1      |
+| Model     | MacBookPro15,2      | Version        | Sequoia 15.3.2      |
 | :-------- | :------------------ | :------------- | :------------------ |
 | Processor | Intel Core i7-8565U | Graphics       | UHD Graphics 620    |
 | Memory    | 2666MHz 2x8GB  | OS Disk        | Crucial MX500 (SATA) (should work with M.2 SSD included with laptop) |
