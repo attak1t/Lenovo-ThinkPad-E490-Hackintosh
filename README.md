@@ -54,5 +54,6 @@ Not tested.
 - [corpnewt](https://github.com/corpnewt) for [GibMacOS](https://github.com/corpnewt/gibMacOS), [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and [MountEFI](https://github.com/corpnewt/MountEFI)
 - [Dortania](https://github.com/dortania) for the [guides](https://dortania.github.io/OpenCore-Install-Guide/)
 - [headkaze](https://github.com/headkaze) for providing the very useful [Hackintool](https://github.com/headkaze/Hackintool/releases)
+- [jamieernest](https://github.com/jamieernest) for the previous build
+- [5T33Z0](https://github.com/5T33Z0) for the T490 build
 - all other authors that mentioned or not mentioned in this repo
--  and [you](https://cdn.weeb.sh/images/rJl3BcTuG.gif) for reading/following/using this :D
